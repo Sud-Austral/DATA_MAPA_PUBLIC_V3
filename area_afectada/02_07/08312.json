@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CUT_REG": "08", "CUT_PROV": "083", "CUT_COM": "08312", "REGION": "Biobío", "PROVINCIA": "Biobío", "COMUNA": "Tucapel", "SUPERFICIE": 914.28, "C_COM_Tx": "08312", "id": 0, "count": 1, "label": 1, "Area": 0.24516415039070749, "Área afectada comuna": 0.49021422836128126 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -71.774080779752538, -37.259626960991511 ], [ -71.773581929463205, -37.259626960991511 ], [ -71.773581929463205, -37.260125811280844 ], [ -71.774080779752538, -37.260125811280844 ], [ -71.774080779752538, -37.259626960991511 ] ] ] } },
+{ "type": "Feature", "properties": { "CUT_REG": "08", "CUT_PROV": "083", "CUT_COM": "08312", "REGION": "Biobío", "PROVINCIA": "Biobío", "COMUNA": "Tucapel", "SUPERFICIE": 914.28, "C_COM_Tx": "08312", "id": 1, "count": 1, "label": 1, "Area": 0.24505007797057374, "Área afectada comuna": 0.49021422836128126 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -71.95566228507181, -37.310509690504048 ], [ -71.955163434782463, -37.310509690504048 ], [ -71.955163434782463, -37.311008540793388 ], [ -71.95566228507181, -37.311008540793388 ], [ -71.95566228507181, -37.310509690504048 ] ] ] } }
+]
+}

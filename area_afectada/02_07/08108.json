@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CUT_REG": "08", "CUT_PROV": "081", "CUT_COM": "08108", "REGION": "Biobío", "PROVINCIA": "Concepción", "COMUNA": "San Pedro de la Paz", "SUPERFICIE": 112.86, "C_COM_Tx": "08108", "id": 0, "count": 1, "label": 1, "Area": 0.24687489181953096, "Área afectada comuna": 0.740692080452793 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -73.069096130875621, -36.858052478073908 ], [ -73.068597280586289, -36.858052478073908 ], [ -73.068597280586289, -36.858551328363248 ], [ -73.069096130875621, -36.858551328363248 ], [ -73.069096130875621, -36.858052478073908 ] ] ] } },
+{ "type": "Feature", "properties": { "CUT_REG": "08", "CUT_PROV": "081", "CUT_COM": "08108", "REGION": "Biobío", "PROVINCIA": "Concepción", "COMUNA": "San Pedro de la Paz", "SUPERFICIE": 112.86, "C_COM_Tx": "08108", "id": 1, "count": 2, "label": 1, "Area": 0.49381718863326207, "Área afectada comuna": 0.740692080452793 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -73.115988058073455, -36.853063975180525 ], [ -73.115489207784108, -36.853063975180525 ], [ -73.115489207784108, -36.854061675759205 ], [ -73.115988058073455, -36.854061675759205 ], [ -73.115988058073455, -36.853063975180525 ] ] ] } }
+]
+}

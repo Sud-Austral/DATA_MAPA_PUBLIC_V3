@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "CUT_REG": "08", "CUT_PROV": "081", "CUT_COM": "08106", "REGION": "Biobío", "PROVINCIA": "Concepción", "COMUNA": "Lota", "SUPERFICIE": 114.69, "C_COM_Tx": "08106", "id": 0, "count": 1, "label": 1, "Area": 0.0064451287316754577, "Área afectada comuna": 0.071137369644868054 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -73.042593921432655, -37.100493718692483 ], [ -73.042657065540681, -37.100493718692483 ], [ -73.042657065540681, -37.100287286274458 ], [ -73.042593921432655, -37.100493718692483 ] ] ] } },
-{ "type": "Feature", "properties": { "CUT_REG": "08", "CUT_PROV": "081", "CUT_COM": "08106", "REGION": "Biobío", "PROVINCIA": "Concepción", "COMUNA": "Lota", "SUPERFICIE": 114.69, "C_COM_Tx": "08106", "id": 1, "count": 1, "label": 1, "Area": 0.064692240913192589, "Área afectada comuna": 0.071137369644868054 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -73.042512430999977, -37.101264135091917 ], [ -73.042556610918353, -37.101491419271163 ], [ -73.042657065540681, -37.101491419271163 ], [ -73.042657065540681, -37.100992568981823 ], [ -73.042525032186731, -37.100992568981823 ], [ -73.042512430999977, -37.101264135091917 ] ] ] } }
+
 ]
 }

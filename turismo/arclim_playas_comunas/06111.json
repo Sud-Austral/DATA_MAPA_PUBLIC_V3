@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "arclim_id": "6111", "NOM_COMUNA": "OLIVAR", "NOM_PROVIN": "CACHAPOAL", "NOM_REGION": "REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -70.72984, -34.2124 ], [ -70.72937, -34.2124 ], [ -70.72984, -34.2124 ], [ -70.77821, -34.21522 ], [ -70.78747, -34.22329 ], [ -70.8369, -34.23037 ], [ -70.8369, -34.23037 ], [ -70.86134, -34.23234 ], [ -70.87831, -34.24263 ], [ -70.90165, -34.23797 ], [ -70.89878, -34.21654 ], [ -70.86668, -34.2143 ], [ -70.84278, -34.19318 ], [ -70.82642, -34.18834 ], [ -70.75717, -34.19248 ], [ -70.72984, -34.2124 ] ] ] } }
+]
+}

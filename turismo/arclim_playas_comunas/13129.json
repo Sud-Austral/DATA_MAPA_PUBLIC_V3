@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "arclim_id": "13129", "NOM_COMUNA": "SAN JOAQUÍN", "NOM_PROVIN": "SANTIAGO", "NOM_REGION": "REGIÓN METROPOLITANA DE SANTIAGO" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -70.62304, -33.47487 ], [ -70.61414, -33.50624 ], [ -70.61414, -33.50624 ], [ -70.6137, -33.5082 ], [ -70.61142, -33.51291 ], [ -70.61143, -33.51331 ], [ -70.63667, -33.51883 ], [ -70.64204, -33.47658 ], [ -70.62532, -33.46977 ], [ -70.62304, -33.47487 ] ] ] } }
+]
+}

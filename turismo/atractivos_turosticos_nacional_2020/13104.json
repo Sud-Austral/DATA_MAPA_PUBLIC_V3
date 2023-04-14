@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4979" } },
+"features": [
+{ "type": "Feature", "properties": { "CODATRAC": "R130051", "JERARQUIA": "NACIONAL", "CATEGORIA": "REALIZACIONES TÉCNICAS Y CIENTÍFICAS CONTEMPORÁNEAS Y CULTURALES HISTÓRICAS", "TIPO": "OBRAS DE ARTE Y TÉCNICA", "SUBTIPO": "ARQUITECTURA", "NOMBRE": "CASA CONSISTORIAL DE CONCHALÍ (MH)", "REGION": "REGIÓN METROPOLITANA DE SANTIAGO", "PROVINCIA": "SANTIAGO", "COMUNA": "CONCHALÍ", "LOCALIDAD": "CONCHALÍ", "DIRECCION": "AVDA. INDEPENDENCIA 3499, CONCHALÍ", "TELEFONO": "", "PROPIEDAD": "PÚBLICA", "ADMINISTRA": "PÚBLICA", "DISTCR": "0", "CR": "SANTIAGO", "DISTCC": "0", "CC": "CONCHALÍ", "LOC_URBANA": "SANTIAGO", "ESTACIONAL": "TODO EL AÑO", "USO_TUR": "ACTUAL", "DEMANDA": "LOCAL, REGIONAL, NACIONAL", "SERVICIOS": "", "COD_REG": 13, "COD_PROV": 131, "COD_COM": 13104, "DESCRIPCIO": "Declarada Monumento Histórico D.E. 479 del 01/07/2004. Ex Casa Patronal de la Chacra Lo Negrete. La construcción, cuyo tipo es propio de las casas rurales del valle central de Chile, dataría de finales del siglo XIX.", "ESTADO_1": "BUENA", "POINT_X": -70.670937507700003, "POINT_Y": -33.396420214099997 }, "geometry": { "type": "Point", "coordinates": [ -70.670937507659687, -33.396420214121406, 0.0 ] } }
+]
+}

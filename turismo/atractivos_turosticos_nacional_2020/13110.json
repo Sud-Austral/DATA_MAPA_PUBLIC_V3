@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4979" } },
+"features": [
+{ "type": "Feature", "properties": { "CODATRAC": "R130252", "JERARQUIA": "REGIONAL", "CATEGORIA": "ACONTECIMIENTOS PROGRAMADOS", "TIPO": "ARTÍSTICOS", "SUBTIPO": "MÚSICA O CANTO", "NOMBRE": "LA FLORIDA CANTA JOVEN", "REGION": "REGIÓN METROPOLITANA DE SANTIAGO", "PROVINCIA": "SANTIAGO", "COMUNA": "LA FLORIDA", "LOCALIDAD": "LA FLORIDA", "DIRECCION": "", "TELEFONO": "", "PROPIEDAD": "PRIVADA", "ADMINISTRA": "PRIVADA", "DISTCR": "0", "CR": "SANTIAGO", "DISTCC": "0", "CC": "LA FLORIDA", "LOC_URBANA": "SANTIAGO", "ESTACIONAL": "3 DE SEPTIEMBRE", "USO_TUR": "ACTUAL", "DEMANDA": "LOCAL, REGIONAL", "SERVICIOS": "", "COD_REG": 13, "COD_PROV": 131, "COD_COM": 13110, "DESCRIPCIO": "Escenarios simultáneos de diferentes estilos de música: rock, hip-hop, folclore, orquesta sinfónica, mundo de la cultura (danza, teatro), zona de niños (música y danza).", "ESTADO_1": "BUENA", "POINT_X": -70.578172927799997, "POINT_Y": -33.540593758100002 }, "geometry": { "type": "Point", "coordinates": [ -70.578172927838182, -33.540593758095326, 0.0 ] } }
+]
+}

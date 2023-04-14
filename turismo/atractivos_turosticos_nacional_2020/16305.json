@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4979" } },
+"features": [
+{ "type": "Feature", "properties": { "CODATRAC": "R16039", "JERARQUIA": "INTERNACIONAL", "CATEGORIA": "REALIZACIONES TÉCNICAS Y CIENTÍFICAS CONTEMPORÁNEAS Y CULTURALES HISTÓRICAS", "TIPO": "EXPLOTACIÓN AGROPECUARIA", "SUBTIPO": "VIÑAS Y BODEGAS", "NOMBRE": "VIÑA SANTA BERTA", "REGION": "REGIÓN DE ÑUBLE", "PROVINCIA": "PUNILLA", "COMUNA": "SAN NICOLÁS", "LOCALIDAD": "SAN NICOLÁS", "DIRECCION": "Fundo Santa Berta de Millapel - P.O. Box 271 – Chillán", "TELEFONO": "+56 933 868 975", "PROPIEDAD": "PRIVADA", "ADMINISTRA": "PRIVADA", "DISTCR": "13", "CR": "CHILLÁN", "DISTCC": "14", "CC": "SAN NICOLÁS", "LOC_URBANA": "SAN NICOLÁS", "ESTACIONAL": "TODO EL AÑO", "USO_TUR": "ACTUAL", "DEMANDA": "LOCAL, REGIONAL, NACIONAL, INTERNACIONAL", "SERVICIOS": "AGUA POTABLE, ELECTRICIDAD", "COD_REG": 16, "COD_PROV": 163, "COD_COM": 16305, "DESCRIPCIO": "Propiedad de la familia Errázuriz Domínguez. El fundo Millapel invita a recorrer los pasillos históricos de una casa patronal de 1900 que conserva su esencia colonial, contando con una capilla abierta a la comunidad. Cuenta con visitas guiadas.", "ESTADO_1": "BUENA", "POINT_X": -72.133197812399999, "POINT_Y": -36.535612663099997 }, "geometry": { "type": "Point", "coordinates": [ -72.133197812376096, -36.535612663105994, 0.0 ] } }
+]
+}

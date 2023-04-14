@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "arclim_id": "3", "NOM_CENTRO_ESQUI": "CENTRO DE SKI CHAPA VERDE", "amen_TUR_02_PRESENTE": 179.8431, "amen_TUR2_FUTURO": 58.9199, "COMUNA": "6108", "delta_cambio_riesgo_TUR_02": 0.0833, "expo_TUR_02_FUTURO": 0.1979, "expo_TUR_02_PRESENTE": 0.1805, "expo_TUR2_FUTURO": 1.0, "id": "3", "ind_opt01_TUR_02": 0.1805, "ind_opt02_TUR_02": 0.1979, "ind_opt03_TUR_02": 0.4627, "ind_opt04_TUR_02": 0.9428, "ind_opt05_TUR_02": 0.9382, "LATITUD_CENTRO_ESQUI": -34.052, "LONGITUD_CENTRO_ESQUI": -70.4331, "riesgo_TUR_02_FUTURO": 0.1386, "riesgo_TUR_02_PRESENTE": 0.1268, "sensi_TUR_02_FUTURO": 0.7005, "sensi_TUR_02_PRESENTE": 0.7027, "$CLIMA$snow_sum$annual$delta": -67.8976, "$CLIMA$snow_sum$annual$present": 134.8506, "$CLIMA$snow_sum$annual$future": 43.2903 }, "geometry": { "type": "Point", "coordinates": [ -70.433, -34.052 ] } }
+]
+}

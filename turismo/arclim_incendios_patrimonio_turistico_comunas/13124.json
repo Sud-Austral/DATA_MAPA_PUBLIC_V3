@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "arclim_id": "13124", "amen_TUR1_FUTURO": 0.2803, "amen_TUR1_PRESENTE": 0.1677, "delta_cambio_amen_TUR1": 0.1126, "delta_cambio_riesgo_TUR1": 0.0, "expo_TUR1_FUTURO": 0.0099, "expo_TUR1_PRESENTE": 0.0089, "ind_opt01_TUR1": 0.007, "ind_opt02_TUR1": 0.02, "ind_opt03_TUR1": 0.0, "ind_opt05_TUR1": 0.0, "ind_opt04_TUR1": 0.0214, "ind_opt06_TUR1": 0.0101, "ind_opt07_TUR1": 0.02, "ind_opt08_TUR1": 0.0265, "riesgo_TUR1_FUTURO": 0.0, "riesgo_TUR1_PRESENTE": 0.0, "sensi_TUR1_FUTURO": 0.0133, "sensi_TUR1_PRESENTE": 0.0107, "NOM_COMUNA": "PUDAHUEL", "NOM_PROVIN": "SANTIAGO", "NOM_REGION": "REGIÓN METROPOLITANA DE SANTIAGO" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -70.75683, -33.3836 ], [ -70.78238, -33.4055 ], [ -70.78255, -33.4137 ], [ -70.76951, -33.42522 ], [ -70.76952, -33.42561 ], [ -70.76951, -33.42522 ], [ -70.76952, -33.42561 ], [ -70.74083, -33.43656 ], [ -70.73124, -33.45505 ], [ -70.73343, -33.46947 ], [ -70.7339, -33.46947 ], [ -70.80628, -33.46101 ], [ -70.80628, -33.46101 ], [ -70.84005, -33.46637 ], [ -70.8479, -33.47876 ], [ -70.8782, -33.47635 ], [ -70.91971, -33.48782 ], [ -70.94869, -33.46901 ], [ -70.95441, -33.449 ], [ -70.94658, -33.4171 ], [ -70.94681, -33.38467 ], [ -70.94633, -33.38468 ], [ -70.90807, -33.36809 ], [ -70.83881, -33.38515 ], [ -70.804, -33.3509 ], [ -70.80352, -33.3509 ], [ -70.75683, -33.3836 ] ] ] } }
+]
+}

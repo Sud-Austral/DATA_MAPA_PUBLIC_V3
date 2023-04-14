@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4979" } },
+"features": [
+{ "type": "Feature", "properties": { "CODATRAC": "R070327", "JERARQUIA": "NACIONAL", "CATEGORIA": "REALIZACIONES TÉCNICAS Y CIENTÍFICAS CONTEMPORÁNEAS Y CULTURALES HISTÓRICAS", "TIPO": "EXPLOTACIÓN AGROPECUARIA", "SUBTIPO": "VIÑAS Y BODEGAS", "NOMBRE": "VIÑA VÍA WINES", "REGION": "REGIÓN DEL MAULE", "PROVINCIA": "TALCA", "COMUNA": "SAN RAFAEL", "LOCALIDAD": "SAN RAFAEL", "DIRECCION": "Fundo La Esperanza S/N, San Rafael", "TELEFONO": "+5671 2415500", "PROPIEDAD": "PRIVADA", "ADMINISTRA": "PRIVADA", "DISTCR": "24", "CR": "TALCA", "DISTCC": "5", "CC": "SAN RAFAEL", "LOC_URBANA": "SAN RAFAEL", "ESTACIONAL": "TODO EL AÑO", "USO_TUR": "BUENA", "DEMANDA": "LOCAL, REGIONAL, NACIONAL", "SERVICIOS": "AGUA POTABLE, ELECTRICIDAD", "COD_REG": 7, "COD_PROV": 71, "COD_COM": 7110, "DESCRIPCIO": "Esta viña destaca por entregar calidad y diversidad, con viñedos que rodea la laguna del Maule. Prevalece en sus plantaciones el Cabernet Sauvignon, Cabernet Franc, Pinot Noir, Merlot, entre otros. Ofrece tours por sus instalaciones y degustaciones.", "ESTADO_1": "BUENO", "POINT_X": -71.48418148, "POINT_Y": -35.306727479000003 }, "geometry": { "type": "Point", "coordinates": [ -71.484181479999904, -35.306727478999903, 0.0 ] } }
+]
+}

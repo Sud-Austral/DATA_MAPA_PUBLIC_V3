@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4979" } },
+"features": [
+{ "type": "Feature", "properties": { "CODATRAC": "R130324", "JERARQUIA": "LOCAL", "CATEGORIA": "REALIZACIONES TÉCNICAS Y CIENTÍFICAS CONTEMPORÁNEAS Y CULTURALES HISTÓRICAS", "TIPO": "OBRAS DE ARTE Y TÉCNICA", "SUBTIPO": "ARQUITECTURA", "NOMBRE": "PALACIO RIESCO (MH)", "REGION": "REGIÓN METROPOLITANA DE SANTIAGO", "PROVINCIA": "SANTIAGO", "COMUNA": "HUECHURABA", "LOCALIDAD": "HUECHURABA", "DIRECCION": "RINCONADA EL SALTO 100", "TELEFONO": "", "PROPIEDAD": "PRIVADA", "ADMINISTRA": "PRIVADA", "DISTCR": "0", "CR": "SANTIAGO", "DISTCC": "0", "CC": "HUECHURABA", "LOC_URBANA": "SANTIAGO", "ESTACIONAL": "TODO EL AÑO", "USO_TUR": "ACTUAL", "DEMANDA": "LOCAL", "SERVICIOS": "", "COD_REG": 13, "COD_PROV": 131, "COD_COM": 13107, "DESCRIPCIO": "Declarado Monumento Histórico d. 373 del 28/07/1997. Ex Casa Patronal, Bodega y Parque del Ex Fundo El Salto. La construcción del Palacio fue obra de Alberto Riesco Salas. Construido hacia 1910 por el ingeniero Ramón Herrera Lira.", "ESTADO_1": "BUENA", "POINT_X": -70.623482704300002, "POINT_Y": -33.394209501600002 }, "geometry": { "type": "Point", "coordinates": [ -70.623482704263211, -33.394209501567104, 0.0 ] } }
+]
+}

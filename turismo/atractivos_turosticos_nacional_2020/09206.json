@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4979" } },
+"features": [
+{ "type": "Feature", "properties": { "CODATRAC": "R090355", "JERARQUIA": "LOCAL", "CATEGORIA": "REALIZACIONES TÉCNICAS Y CIENTÍFICAS CONTEMPORÁNEAS Y CULTURALES HISTÓRICAS", "TIPO": "OBRAS DE ARTE Y TÉCNICA", "SUBTIPO": "OBRA DE INGENIERÍA", "NOMBRE": "TRANQUE SANTA ELENA", "REGION": "REGIÓN DE LA ARAUCANÍA", "PROVINCIA": "MALLECO", "COMUNA": "LOS SAUCES", "LOCALIDAD": "LOS SAUCES", "DIRECCION": "", "TELEFONO": "", "PROPIEDAD": "PÚBLICA", "ADMINISTRA": "PÚBLICA", "DISTCR": "0", "CR": "TEMUCO", "DISTCC": "0", "CC": "LOS SAUCES", "LOC_URBANA": "LOS SAUCES", "ESTACIONAL": "TODO EL AÑO", "USO_TUR": "ACTUAL", "DEMANDA": "LOCAL", "SERVICIOS": "", "COD_REG": 9, "COD_PROV": 92, "COD_COM": 9206, "DESCRIPCIO": "Tranque artificial de aguas cristalinas, rodeado en sus riberas de algunos juncales, el resto se encuentra cubierto de pastizales, enclavado en terrenos llanos y rodeado de cerros de lomajes suavemente ondulados.", "ESTADO_1": "BUENA", "POINT_X": -72.887839408000005, "POINT_Y": -37.987711465899999 }, "geometry": { "type": "Point", "coordinates": [ -72.887839407999934, -37.98771146591546, 0.0 ] } }
+]
+}

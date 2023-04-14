@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "arclim_id": "13", "NOM_CENTRO_ESQUI": "CENTRO DE ESQUÍ LAGUNILLAS", "amen_TUR_02_PRESENTE": 30.7647, "amen_TUR2_FUTURO": 8.8567, "COMUNA": "13203", "delta_cambio_riesgo_TUR_02": 0.1369, "expo_TUR_02_FUTURO": 0.25, "expo_TUR_02_PRESENTE": 0.2281, "expo_TUR2_FUTURO": 1.0, "id": "13", "ind_opt01_TUR_02": 0.2281, "ind_opt02_TUR_02": 0.25, "ind_opt03_TUR_02": 0.6866, "ind_opt04_TUR_02": 0.9458, "ind_opt05_TUR_02": 0.9415, "LATITUD_CENTRO_ESQUI": -33.6077, "LONGITUD_CENTRO_ESQUI": -70.2885, "riesgo_TUR_02_FUTURO": 0.2035, "riesgo_TUR_02_PRESENTE": 0.1862, "sensi_TUR_02_FUTURO": 0.8141, "sensi_TUR_02_PRESENTE": 0.8162, "$CLIMA$snow_sum$annual$delta": -71.8174, "$CLIMA$snow_sum$annual$present": 15.1846, "$CLIMA$snow_sum$annual$future": 4.2794 }, "geometry": { "type": "Point", "coordinates": [ -70.289, -33.608 ] } }
+]
+}

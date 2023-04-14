@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "arclim_id": "9", "NOM_CENTRO_ESQUI": "CENTRO DE ESQUÍ ANTILLANCA", "amen_TUR_02_PRESENTE": 25.5101, "amen_TUR2_FUTURO": 4.3595, "COMUNA": "10109", "delta_cambio_riesgo_TUR_02": 0.3855, "expo_TUR_02_FUTURO": 0.7323, "expo_TUR_02_PRESENTE": 0.668, "expo_TUR2_FUTURO": 1.0, "id": "9", "ind_opt01_TUR_02": 0.668, "ind_opt02_TUR_02": 0.7323, "ind_opt03_TUR_02": 0.791, "ind_opt04_TUR_02": 0.6603, "ind_opt05_TUR_02": 0.6334, "LATITUD_CENTRO_ESQUI": -40.7757, "LONGITUD_CENTRO_ESQUI": -72.2032, "riesgo_TUR_02_FUTURO": 0.5215, "riesgo_TUR_02_PRESENTE": 0.4848, "sensi_TUR_02_FUTURO": 0.7122, "sensi_TUR_02_PRESENTE": 0.7257, "$CLIMA$snow_sum$annual$delta": -72.6944, "$CLIMA$snow_sum$annual$present": 69.2536, "$CLIMA$snow_sum$annual$future": 18.9101 }, "geometry": { "type": "Point", "coordinates": [ -72.203, -40.776 ] } }
+]
+}

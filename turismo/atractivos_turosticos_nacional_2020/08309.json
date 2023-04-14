@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4979" } },
+"features": [
+{ "type": "Feature", "properties": { "CODATRAC": "R080063", "JERARQUIA": "LOCAL", "CATEGORIA": "MUSEOS MANIFESTACIONES CULTURALES Y LUGARES DE INTERÉS HISTÓRICO O CULTURAL", "TIPO": "LUGAR O SITIO HISTÓRICO", "SUBTIPO": "LUGAR O SITIO HISTÓRICO", "NOMBRE": "HACIENDA SAN JOSÉ DE LAS CANTERAS", "REGION": "REGIÓN DEL BIOBÍO", "PROVINCIA": "BIOBÍO", "COMUNA": "QUILLECO", "LOCALIDAD": "HACIENDA SAN JOSE DE LAS CANTERAS", "DIRECCION": "A 30 KM AL ESTE DE LOS ÁNGELES", "TELEFONO": "(43) 404016", "PROPIEDAD": "PRIVADA", "ADMINISTRA": "PRIVADA", "DISTCR": "151", "CR": "CONCEPCIÓN", "DISTCC": "0", "CC": "QUILLECO", "LOC_URBANA": "QUILLECO", "ESTACIONAL": "TODO EL AÑO", "USO_TUR": "ACTUAL", "DEMANDA": "LOCAL", "SERVICIOS": "SIN SERVICIOS", "COD_REG": 8, "COD_PROV": 83, "COD_COM": 8309, "DESCRIPCIO": "Lugar donde vivió un Bernardo O’Higgins agricultor y emprendedor, ahí él desarrolló la agricultura, trajo instrumentos nuevos desde Europa, incorporó el regadío en esa zona que era muy de secano, y así cambió la fisonomía de esa tierra.", "ESTADO_1": "BUENA", "POINT_X": -71.979305239799999, "POINT_Y": -37.468139076299998 }, "geometry": { "type": "Point", "coordinates": [ -71.979305239844791, -37.468139076257216, 0.0 ] } }
+]
+}

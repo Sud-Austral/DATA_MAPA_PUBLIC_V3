@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "arclim_id": "2", "NOM_CENTRO_ESQUI": "CENTRO DE SKI EL ARPA", "amen_TUR_02_PRESENTE": 103.3105, "amen_TUR2_FUTURO": 31.1119, "COMUNA": "5304", "delta_cambio_riesgo_TUR_02": 0.077, "expo_TUR_02_FUTURO": 0.1447, "expo_TUR_02_PRESENTE": 0.132, "expo_TUR2_FUTURO": 1.0, "id": "2", "ind_opt01_TUR_02": 0.132, "ind_opt02_TUR_02": 0.1447, "ind_opt03_TUR_02": 0.8657, "ind_opt04_TUR_02": 0.941, "ind_opt05_TUR_02": 0.9363, "LATITUD_CENTRO_ESQUI": -32.6543, "LONGITUD_CENTRO_ESQUI": -70.4761, "riesgo_TUR_02_FUTURO": 0.1304, "riesgo_TUR_02_PRESENTE": 0.1193, "sensi_TUR_02_FUTURO": 0.901, "sensi_TUR_02_PRESENTE": 0.9033, "$CLIMA$snow_sum$annual$delta": -65.1847, "$CLIMA$snow_sum$annual$present": 147.0487, "$CLIMA$snow_sum$annual$future": 51.1955 }, "geometry": { "type": "Point", "coordinates": [ -70.476, -32.654 ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "arclim_id": "6114", "NOM_COMUNA": "QUINTA DE TILCOCO", "NOM_PROVIN": "CACHAPOAL", "NOM_REGION": "REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -70.95873, -34.3886 ], [ -70.99072, -34.4037 ], [ -71.01043, -34.40611 ], [ -71.02864, -34.3859 ], [ -71.07484, -34.37419 ], [ -71.06162, -34.34317 ], [ -71.06709, -34.33175 ], [ -71.04056, -34.324 ], [ -71.01452, -34.33653 ], [ -70.9503, -34.31414 ], [ -70.94418, -34.33962 ], [ -70.92857, -34.34846 ], [ -70.93155, -34.3738 ], [ -70.95873, -34.3886 ] ] ] } }
+]
+}

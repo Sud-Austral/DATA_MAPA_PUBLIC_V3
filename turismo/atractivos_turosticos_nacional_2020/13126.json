@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4979" } },
+"features": [
+{ "type": "Feature", "properties": { "CODATRAC": "R130217", "JERARQUIA": "REGIONAL", "CATEGORIA": "FOLKLORE", "TIPO": "MANIFESTACIONES RELIGIOSAS Y CREENCIAS POPULARES", "SUBTIPO": "MANIFESTACIONES RELIGIOSAS Y CREENCIAS POPULARES", "NOMBRE": "GRUTA DE LOURDES", "REGION": "REGIÓN METROPOLITANA DE SANTIAGO", "PROVINCIA": "SANTIAGO", "COMUNA": "QUINTA NORMAL", "LOCALIDAD": "SANTUARIO DE LOURDES", "DIRECCION": "LOURDES 645, QUINTA NORMAL", "TELEFONO": "(02) 7727382", "PROPIEDAD": "PRIVADA", "ADMINISTRA": "PÚBLICA-PRIVADA", "DISTCR": "1", "CR": "SANTIAGO", "DISTCC": "1", "CC": "QUINTA NORMAL", "LOC_URBANA": "SANTIAGO", "ESTACIONAL": "TODO EL AÑO", "USO_TUR": "ACTUAL CON RESTRICCIÓN", "DEMANDA": "LOCAL, REGIONAL", "SERVICIOS": "AGUA POTABLE, ELECTRICIDAD", "COD_REG": 13, "COD_PROV": 131, "COD_COM": 13126, "DESCRIPCIO": "Singular templo al aire libre que emula a la gruta de las apariciones de la Virgen María como la \"Inmaculada Concepción\" a Santa Bernadette Soubirous en 1858, ubicada en la ciudad de Lourdes, Francia. Está ubicada en el Paseo Lourdes.", "ESTADO_1": "BUENA", "POINT_X": -70.686112729900003, "POINT_Y": -33.438469291600001 }, "geometry": { "type": "Point", "coordinates": [ -70.68611272991842, -33.438469291624358, 0.0 ] } }
+]
+}

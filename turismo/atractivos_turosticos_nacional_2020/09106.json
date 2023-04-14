@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4979" } },
+"features": [
+{ "type": "Feature", "properties": { "CODATRAC": "R090102", "JERARQUIA": "LOCAL", "CATEGORIA": "ACONTECIMIENTOS PROGRAMADOS", "TIPO": "EVENTOS MISCELÁNEOS", "SUBTIPO": "CARNAVAL O FIESTA COSTUMBRISTA", "NOMBRE": "FIESTA DEL CHANCHO EN GALVARINO", "REGION": "REGIÓN DE LA ARAUCANÍA", "PROVINCIA": "CAUTÍN", "COMUNA": "GALVARINO", "LOCALIDAD": "GALVARINO", "DIRECCION": "", "TELEFONO": "", "PROPIEDAD": "", "ADMINISTRA": "", "DISTCR": "0", "CR": "TEMUCO", "DISTCC": "0", "CC": "", "LOC_URBANA": "", "ESTACIONAL": "ULTIMA SEMANA DE ABRIL", "USO_TUR": "", "DEMANDA": "LOCAL", "SERVICIOS": "", "COD_REG": 9, "COD_PROV": 91, "COD_COM": 9106, "DESCRIPCIO": "Se celebra a fines de abril, en el mes aniversario de la comuna de Galvarino. La fiesta tiene por objetivo dar a conocer las principales preparaciones de comidas en base al cerdo, producido en la comuna, así como también sus derivados.", "ESTADO_1": "", "POINT_X": -72.781161206999997, "POINT_Y": -38.411172211900002 }, "geometry": { "type": "Point", "coordinates": [ -72.781161206999968, -38.411172211918696, 0.0 ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4979" } },
+"features": [
+{ "type": "Feature", "properties": { "CODATRAC": "R130415", "JERARQUIA": "REGIONAL", "CATEGORIA": "REALIZACIONES TÉCNICAS Y CIENTÍFICAS CONTEMPORÁNEAS Y CULTURALES HISTÓRICAS", "TIPO": "EXPLOTACIÓN AGROPECUARIA", "SUBTIPO": "VIÑAS Y BODEGAS", "NOMBRE": "VIÑA CAVAS DEL MAIPO", "REGION": "REGIÓN METROPOLITANA DE SANTIAGO", "PROVINCIA": "CORDILLERA", "COMUNA": "PUENTE ALTO", "LOCALIDAD": "LAS VIZCACHAS", "DIRECCION": "Camino al volcán 0121, Las Vizcachas", "TELEFONO": "+562 2 8711508", "PROPIEDAD": "PRIVADA", "ADMINISTRA": "PÚBLICA-PRIVADA", "DISTCR": "25", "CR": "SANTIAGO", "DISTCC": "2", "CC": "PUENTE ALTO", "LOC_URBANA": "PUENTE ALTO", "ESTACIONAL": "TODO EL AÑO", "USO_TUR": "ACTUAL", "DEMANDA": "LOCAL, REGIONAL", "SERVICIOS": "AGUA POTABLE, ELECTRICIDAD", "COD_REG": 13, "COD_PROV": 132, "COD_COM": 13201, "DESCRIPCIO": "Pequeña empresa que busca diferenciarse de la producción industrial, realizando vinos a la usanza tradicional-artesanal. Ofrece tours educativos de 90 minutos donde se conoce el proceso del vino, junto a una degustación de sus productos.", "ESTADO_1": "BUENA", "POINT_X": -70.496874990099997, "POINT_Y": -33.598058250599998 }, "geometry": { "type": "Point", "coordinates": [ -70.496874990088543, -33.598058250587655, 0.0 ] } }
+]
+}

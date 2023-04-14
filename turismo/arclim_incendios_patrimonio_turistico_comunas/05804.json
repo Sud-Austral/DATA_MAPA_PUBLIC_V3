@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "arclim_id": "5804", "amen_TUR1_FUTURO": 0.3819, "amen_TUR1_PRESENTE": 0.0773, "delta_cambio_amen_TUR1": 0.3046, "delta_cambio_riesgo_TUR1": 0.0029, "expo_TUR1_FUTURO": 0.0183, "expo_TUR1_PRESENTE": 0.0157, "ind_opt01_TUR1": 0.0171, "ind_opt02_TUR1": 0.03, "ind_opt03_TUR1": 0.0006, "ind_opt05_TUR1": 0.9697, "ind_opt04_TUR1": 0.0201, "ind_opt06_TUR1": 0.0248, "ind_opt07_TUR1": 0.03, "ind_opt08_TUR1": 0.0291, "riesgo_TUR1_FUTURO": 0.0035, "riesgo_TUR1_PRESENTE": 0.0006, "sensi_TUR1_FUTURO": 0.4994, "sensi_TUR1_PRESENTE": 0.4949, "NOM_COMUNA": "VILLA ALEMANA", "NOM_PROVIN": "MARGA MARGA", "NOM_REGION": "REGIÓN DE VALPARAÍSO" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -71.26719, -33.11678 ], [ -71.31068, -33.11871 ], [ -71.36666, -33.09306 ], [ -71.37938, -33.07446 ], [ -71.39719, -33.07021 ], [ -71.39869, -33.05573 ], [ -71.39869, -33.05573 ], [ -71.39906, -33.05182 ], [ -71.39906, -33.05182 ], [ -71.39895, -33.01316 ], [ -71.38247, -33.01425 ], [ -71.34033, -33.04356 ], [ -71.34033, -33.04356 ], [ -71.32808, -33.04418 ], [ -71.31951, -33.02325 ], [ -71.29704, -33.01195 ], [ -71.28498, -33.01959 ], [ -71.29048, -33.04996 ], [ -71.27711, -33.08027 ], [ -71.25687, -33.10095 ], [ -71.26719, -33.11678 ] ] ] } }
+]
+}

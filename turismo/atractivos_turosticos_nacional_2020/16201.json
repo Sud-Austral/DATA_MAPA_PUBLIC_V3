@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4979" } },
+"features": [
+{ "type": "Feature", "properties": { "CODATRAC": "R16043", "JERARQUIA": "LOCAL", "CATEGORIA": "MUSEOS MANIFESTACIONES CULTURALES Y LUGARES DE INTERÉS HISTÓRICO O CULTURAL", "TIPO": "LUGAR O SITIO HISTÓRICO", "SUBTIPO": "LUGAR O SITIO HISTÓRICO", "NOMBRE": "CASA NATAL GRUMETE PANTALEÓN CORTEZ", "REGION": "REGIÓN DE ÑUBLE", "PROVINCIA": "ITATA", "COMUNA": "QUIRIHUE", "LOCALIDAD": "QUIRIHUE", "DIRECCION": "GRUMETE CORTEZ 671, QUIRIHUE", "TELEFONO": "(42) 531393", "PROPIEDAD": "PÚBLICA", "ADMINISTRA": "PÚBLICA", "DISTCR": "52", "CR": "CHILLÁN", "DISTCC": "0", "CC": "QUIRIHUE", "LOC_URBANA": "QUIRIHUE", "ESTACIONAL": "TODO EL AÑO", "USO_TUR": "ACTUAL", "DEMANDA": "LOCAL", "SERVICIOS": "AGUA POTABLE, ELECTRICIDAD", "COD_REG": 16, "COD_PROV": 162, "COD_COM": 16201, "DESCRIPCIO": "Se presume que esta vivienda fue construida después del terremoto de 1835 y antes del 15 de Enero de 1861, fecha en que nació en ella el Grumete Pantaleón 2° Cortéz.", "ESTADO_1": "REGULAR", "POINT_X": -72.538923022000006, "POINT_Y": -36.283318389900003 }, "geometry": { "type": "Point", "coordinates": [ -72.538923021999949, -36.283318389900288, 0.0 ] } }
+]
+}

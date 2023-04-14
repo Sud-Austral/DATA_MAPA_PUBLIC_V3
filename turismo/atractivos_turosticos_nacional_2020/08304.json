@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4979" } },
+"features": [
+{ "type": "Feature", "properties": { "CODATRAC": "R080158", "JERARQUIA": "NACIONAL", "CATEGORIA": "REALIZACIONES TÉCNICAS Y CIENTÍFICAS CONTEMPORÁNEAS Y CULTURALES HISTÓRICAS", "TIPO": "OBRAS DE ARTE Y TÉCNICA", "SUBTIPO": "ARQUITECTURA", "NOMBRE": "TREN TURÍSTICO CORTO EL LAJA", "REGION": "REGIÓN DEL BIOBÍO", "PROVINCIA": "BIOBÍO", "COMUNA": "LAJA", "LOCALIDAD": "LAJA", "DIRECCION": "", "TELEFONO": "", "PROPIEDAD": "", "ADMINISTRA": "", "DISTCR": "0", "CR": "", "DISTCC": "0", "CC": "", "LOC_URBANA": "", "ESTACIONAL": "", "USO_TUR": "", "DEMANDA": "", "SERVICIOS": "", "COD_REG": 8, "COD_PROV": 83, "COD_COM": 8304, "DESCRIPCIO": "Una invitación a viajar bordeando el río Biobío en una automotora eléctrica del año 1976. Un recorrido que te conectará con las tradiciones del campo chileno, sus sabores, folclore y la historia de nuestro patrimonio ferroviario.", "ESTADO_1": "", "POINT_X": -72.716877460299997, "POINT_Y": -37.282003734500002 }, "geometry": { "type": "Point", "coordinates": [ -72.716877460333123, -37.282003734487709, 0.0 ] } }
+]
+}

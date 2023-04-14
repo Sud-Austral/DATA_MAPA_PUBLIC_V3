@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "arclim_id": "5403", "amen_TUR1_FUTURO": 0.0166, "amen_TUR1_PRESENTE": 0.0009, "delta_cambio_amen_TUR1": 0.0157, "delta_cambio_riesgo_TUR1": 0.0011, "expo_TUR1_FUTURO": 0.14, "expo_TUR1_PRESENTE": 0.1361, "ind_opt01_TUR1": 0.0044, "ind_opt02_TUR1": 0.13, "ind_opt03_TUR1": 0.2698, "ind_opt05_TUR1": 0.9773, "ind_opt04_TUR1": 0.0045, "ind_opt06_TUR1": 0.0064, "ind_opt07_TUR1": 0.14, "ind_opt08_TUR1": 0.0066, "riesgo_TUR1_FUTURO": 0.0011, "riesgo_TUR1_PRESENTE": 0.0001, "sensi_TUR1_FUTURO": 0.4919, "sensi_TUR1_PRESENTE": 0.4909, "NOM_COMUNA": "PAPUDO", "NOM_PROVIN": "PETORCA", "NOM_REGION": "REGIÓN DE VALPARAÍSO" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -71.30077, -32.49827 ], [ -71.36419, -32.52053 ], [ -71.3713, -32.5411 ], [ -71.38708, -32.55251 ], [ -71.42183, -32.55341 ], [ -71.43886, -32.54136 ], [ -71.43886, -32.54136 ], [ -71.45421, -32.53638 ], [ -71.46307, -32.50027 ], [ -71.44962, -32.50561 ], [ -71.4313, -32.48722 ], [ -71.42453, -32.40924 ], [ -71.40797, -32.4033 ], [ -71.36906, -32.40209 ], [ -71.34028, -32.41239 ], [ -71.32646, -32.40327 ], [ -71.30606, -32.42982 ], [ -71.29085, -32.43986 ], [ -71.32442, -32.45135 ], [ -71.32059, -32.46666 ], [ -71.30494, -32.47788 ], [ -71.30077, -32.49827 ] ] ] ] } }
+]
+}

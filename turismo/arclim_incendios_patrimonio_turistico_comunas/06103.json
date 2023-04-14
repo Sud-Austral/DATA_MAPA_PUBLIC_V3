@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "arclim_id": "6103", "amen_TUR1_FUTURO": 0.1794, "amen_TUR1_PRESENTE": 0.1197, "delta_cambio_amen_TUR1": 0.0597, "delta_cambio_riesgo_TUR1": 0.0, "expo_TUR1_FUTURO": 0.0, "expo_TUR1_PRESENTE": 0.0, "ind_opt01_TUR1": 0.0, "ind_opt02_TUR1": 0.0, "ind_opt03_TUR1": 0.0, "ind_opt05_TUR1": 0.0, "ind_opt04_TUR1": 0.0003, "ind_opt06_TUR1": 0.0, "ind_opt07_TUR1": 0.0, "ind_opt08_TUR1": 0.0006, "riesgo_TUR1_FUTURO": 0.0, "riesgo_TUR1_PRESENTE": 0.0, "sensi_TUR1_FUTURO": 0.0003, "sensi_TUR1_PRESENTE": 0.0002, "NOM_COMUNA": "COINCO", "NOM_PROVIN": "CACHAPOAL", "NOM_REGION": "REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -70.87831, -34.24263 ], [ -70.88185, -34.27264 ], [ -70.88185, -34.27264 ], [ -70.90593, -34.25821 ], [ -70.9117, -34.28038 ], [ -70.92377, -34.28488 ], [ -70.92425, -34.28487 ], [ -70.92425, -34.28487 ], [ -70.94117, -34.29203 ], [ -70.94117, -34.29203 ], [ -70.9503, -34.31414 ], [ -71.01452, -34.33653 ], [ -71.04056, -34.324 ], [ -71.06709, -34.33175 ], [ -71.07718, -34.33314 ], [ -71.08913, -34.31263 ], [ -71.08912, -34.31224 ], [ -71.08913, -34.31263 ], [ -71.07238, -34.31331 ], [ -71.01375, -34.28422 ], [ -70.97377, -34.25323 ], [ -70.92183, -34.22047 ], [ -70.89878, -34.21654 ], [ -70.90165, -34.23797 ], [ -70.87831, -34.24263 ] ] ] } }
+]
+}

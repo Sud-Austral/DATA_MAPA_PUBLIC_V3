@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "arclim_id": "8108", "NOM_COMUNA": "SAN PEDRO DE LA PAZ", "NOM_PROVIN": "CONCEPCIÓN", "NOM_REGION": "REGIÓN DEL BIOBÍO" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -73.04184, -36.95738 ], [ -73.06145, -36.96334 ], [ -73.0651, -36.97609 ], [ -73.08804, -36.94253 ], [ -73.08607, -36.92426 ], [ -73.15423, -36.90472 ], [ -73.1519, -36.87086 ], [ -73.15535, -36.82509 ], [ -73.10752, -36.82637 ], [ -73.07579, -36.84268 ], [ -73.06321, -36.87549 ], [ -73.04184, -36.95738 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "arclim_id": "1107", "amen_TUR1_FUTURO": 0.0, "amen_TUR1_PRESENTE": 0.0, "delta_cambio_amen_TUR1": 0.0, "delta_cambio_riesgo_TUR1": 0.0, "expo_TUR1_FUTURO": 0.0201, "expo_TUR1_PRESENTE": 0.0116, "ind_opt01_TUR1": 0.0351, "ind_opt02_TUR1": 0.0, "ind_opt03_TUR1": 0.0001, "ind_opt05_TUR1": 1.0, "ind_opt04_TUR1": 0.03, "ind_opt06_TUR1": 0.0509, "ind_opt07_TUR1": 0.01, "ind_opt08_TUR1": 0.0372, "riesgo_TUR1_FUTURO": 0.0, "riesgo_TUR1_PRESENTE": 0.0, "sensi_TUR1_FUTURO": 0.5186, "sensi_TUR1_PRESENTE": 0.515, "NOM_COMUNA": "ALTO HOSPICIO", "NOM_PROVIN": "IQUIQUE", "NOM_REGION": "REGIÓN DE TARAPACÁ" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -70.10963, -20.35143 ], [ -70.12457, -20.31573 ], [ -70.10992, -20.27434 ], [ -70.11026, -20.26338 ], [ -70.11026, -20.26299 ], [ -70.11026, -20.26338 ], [ -70.11026, -20.26299 ], [ -70.11068, -20.26298 ], [ -70.11026, -20.26299 ], [ -70.11068, -20.26298 ], [ -70.11144, -20.25046 ], [ -70.11144, -20.25046 ], [ -70.11144, -20.25007 ], [ -70.11144, -20.25007 ], [ -70.11027, -20.20468 ], [ -70.12004, -20.15531 ], [ -70.10247, -20.11472 ], [ -70.09889, -20.085 ], [ -69.89301, -20.04859 ], [ -69.91343, -20.22773 ], [ -69.96759, -20.32136 ], [ -70.02827, -20.30575 ], [ -70.10963, -20.35143 ] ] ] } }
+]
+}

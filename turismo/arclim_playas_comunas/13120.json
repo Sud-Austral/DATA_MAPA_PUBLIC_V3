@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "arclim_id": "13120", "NOM_COMUNA": "ÑUÑOA", "NOM_PROVIN": "SANTIAGO", "NOM_REGION": "REGIÓN METROPOLITANA DE SANTIAGO" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -70.57249, -33.45912 ], [ -70.57647, -33.46923 ], [ -70.57647, -33.46962 ], [ -70.62304, -33.47487 ], [ -70.62532, -33.46977 ], [ -70.63158, -33.44976 ], [ -70.59783, -33.44473 ], [ -70.58246, -33.4336 ], [ -70.57249, -33.45912 ] ] ] } }
+]
+}

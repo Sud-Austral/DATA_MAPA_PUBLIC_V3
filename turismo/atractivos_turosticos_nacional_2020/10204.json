@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4979" } },
+"features": [
+{ "type": "Feature", "properties": { "CODATRAC": "R100074", "JERARQUIA": "NACIONAL", "CATEGORIA": "FOLKLORE", "TIPO": "ARQUITECTURA POPULAR ESPONTÁNEA", "SUBTIPO": "PUEBLO O ALDEA TRADICIONAL", "NOMBRE": "CURACO DE VÉLEZ", "REGION": "REGIÓN DE LOS LAGOS", "PROVINCIA": "CHILOÉ", "COMUNA": "CURACO DE VÉLEZ", "LOCALIDAD": "CURACO DE VÉLEZ", "DIRECCION": "31 KM DE CASTRO", "TELEFONO": "(65) 667223", "PROPIEDAD": "PRIVADA", "ADMINISTRA": "PRIVADA", "DISTCR": "179", "CR": "PUERTO MONTT", "DISTCC": "0", "CC": "CURACO DE VÉLEZ", "LOC_URBANA": "CURACO DE VÉLEZ", "ESTACIONAL": "TODO EL AÑO", "USO_TUR": "ACTUAL", "DEMANDA": "LOCAL, REGIONAL, NACIONAL", "SERVICIOS": "AGUA POTABLE, ELECTRICIDAD", "COD_REG": 10, "COD_PROV": 102, "COD_COM": 10204, "DESCRIPCIO": "Puerto histórico ubicado al noroeste de la Isla de Quinchao, se define como \"Cuna de Héroes\", por la Armada de Chile por haber nacido en esta localidad grandes marinos como el Almirante Galvarino Riveros Cárdenas.", "ESTADO_1": "BUENA", "POINT_X": -73.600847123999998, "POINT_Y": -42.4404768809 }, "geometry": { "type": "Point", "coordinates": [ -73.600847123999984, -42.440476880939556, 0.0 ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4979" } },
+"features": [
+{ "type": "Feature", "properties": { "CODATRAC": "R130292", "JERARQUIA": "NACIONAL", "CATEGORIA": "MUSEOS MANIFESTACIONES CULTURALES Y LUGARES DE INTERÉS HISTÓRICO O CULTURAL", "TIPO": "MUSEO Y SALA DE EXPOSICIÓN MUSEOGRÁFICA", "SUBTIPO": "MUSEO", "NOMBRE": "MUSEO NACIONAL AERONÁUTICO Y DEL ESPACIO", "REGION": "REGIÓN METROPOLITANA DE SANTIAGO", "PROVINCIA": "SANTIAGO", "COMUNA": "CERRILLOS", "LOCALIDAD": "EX AERËDROMO LOS CERRILLOS", "DIRECCION": "AVDA. PEDRO AGUIRRE CERDA 5100, CERRILLOS", "TELEFONO": "(02) 4353030", "PROPIEDAD": "PÚBLICA", "ADMINISTRA": "PÚBLICA", "DISTCR": "7", "CR": "SANTIAGO", "DISTCC": "0", "CC": "CERRILLOS", "LOC_URBANA": "SANTIAGO", "ESTACIONAL": "TODO EL AÑO", "USO_TUR": "ACTUAL", "DEMANDA": "LOCAL, REGIONAL, NACIONAL", "SERVICIOS": "AGUA POTABLE, ELECTRICIDAD", "COD_REG": 13, "COD_PROV": 131, "COD_COM": 13102, "DESCRIPCIO": "Actual Museo Nacional Aeronáutico y del Espacio fue creado el día 13 de julio de 1944. Durante el año 1992, pasa a ocupar sus actuales instalaciones en el Aeródromo de Los Cerrillos.", "ESTADO_1": "BUENA", "POINT_X": -70.697869233399999, "POINT_Y": -33.486389570599997 }, "geometry": { "type": "Point", "coordinates": [ -70.697869233378242, -33.486389570622009, 0.0 ] } }
+]
+}

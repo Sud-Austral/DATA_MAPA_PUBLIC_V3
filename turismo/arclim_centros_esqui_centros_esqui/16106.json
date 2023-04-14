@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "arclim_id": "14", "NOM_CENTRO_ESQUI": "CENTRO ESQUÍ TERMAS CHILLÁN", "amen_TUR_02_PRESENTE": 110.1392, "amen_TUR2_FUTURO": 32.6104, "COMUNA": "16106", "delta_cambio_riesgo_TUR_02": 0.1094, "expo_TUR_02_FUTURO": 0.1913, "expo_TUR_02_PRESENTE": 0.1745, "expo_TUR2_FUTURO": 1.0, "id": "14", "ind_opt01_TUR_02": 0.1745, "ind_opt02_TUR_02": 0.1913, "ind_opt03_TUR_02": 0.8657, "ind_opt04_TUR_02": 0.9096, "ind_opt05_TUR_02": 0.9025, "LATITUD_CENTRO_ESQUI": -36.9104, "LONGITUD_CENTRO_ESQUI": -71.4177, "riesgo_TUR_02_FUTURO": 0.1691, "riesgo_TUR_02_PRESENTE": 0.1549, "sensi_TUR_02_FUTURO": 0.8841, "sensi_TUR_02_PRESENTE": 0.8877, "$CLIMA$snow_sum$annual$delta": -61.93, "$CLIMA$snow_sum$annual$present": 277.097, "$CLIMA$snow_sum$annual$future": 105.4908 }, "geometry": { "type": "Point", "coordinates": [ -71.418, -36.91 ] } }
+]
+}

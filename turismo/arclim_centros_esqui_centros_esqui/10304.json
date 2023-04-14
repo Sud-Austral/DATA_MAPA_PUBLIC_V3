@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "arclim_id": "8", "NOM_CENTRO_ESQUI": "CENTRO DE ESQUÍ VOLCÁN OSORNO", "amen_TUR_02_PRESENTE": 46.7559, "amen_TUR2_FUTURO": 11.5499, "COMUNA": "10304", "delta_cambio_riesgo_TUR_02": 0.2792, "expo_TUR_02_FUTURO": 0.7935, "expo_TUR_02_PRESENTE": 0.7239, "expo_TUR2_FUTURO": 1.0, "id": "8", "ind_opt01_TUR_02": 0.7239, "ind_opt02_TUR_02": 0.7935, "ind_opt03_TUR_02": 0.4179, "ind_opt04_TUR_02": 0.5899, "ind_opt05_TUR_02": 0.5574, "LATITUD_CENTRO_ESQUI": -41.1278, "LONGITUD_CENTRO_ESQUI": -72.532, "riesgo_TUR_02_FUTURO": 0.387, "riesgo_TUR_02_PRESENTE": 0.3648, "sensi_TUR_02_FUTURO": 0.4877, "sensi_TUR_02_PRESENTE": 0.5039, "$CLIMA$snow_sum$annual$delta": -75.2998, "$CLIMA$snow_sum$annual$present": 37.8011, "$CLIMA$snow_sum$annual$future": 9.337 }, "geometry": { "type": "Point", "coordinates": [ -72.532, -41.128 ] } }
+]
+}

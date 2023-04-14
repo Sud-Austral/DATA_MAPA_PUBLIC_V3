@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4979" } },
+"features": [
+{ "type": "Feature", "properties": { "CODATRAC": "R080142", "JERARQUIA": "NACIONAL", "CATEGORIA": "SITIOS NATURALES", "TIPO": "CUERPOS Y CURSOS DE AGUA", "SUBTIPO": "CAÍDA DE AGUA", "NOMBRE": "SALTO DEL LAJA", "REGION": "REGIÓN DEL BIOBÍO", "PROVINCIA": "BIOBÍO", "COMUNA": "CABRERO", "LOCALIDAD": "SALTO DEL LAJA", "DIRECCION": "", "TELEFONO": "(43) 408643", "PROPIEDAD": "PÚBLICA", "ADMINISTRA": "PÚBLICA", "DISTCR": "98", "CR": "CONCEPCIÓN", "DISTCC": "17", "CC": "CABRERO", "LOC_URBANA": "CABRERO", "ESTACIONAL": "TODO EL AÑO", "USO_TUR": "ACTUAL", "DEMANDA": "LOCAL, REGIONAL, NACIONAL, INTERNACIONAL", "SERVICIOS": "AGUA POTABLE, ELECTRICIDAD", "COD_REG": 8, "COD_PROV": 83, "COD_COM": 8303, "DESCRIPCIO": "Declarado Centro de Interés Turístico. El Salto está conformado por cuatro espectaculares caídas, de entre 40 y 55 m de altura. El paisaje circundante está constituido por vegetación tipo estepa con especies de boldo, espino, quillay.", "ESTADO_1": "BUENA", "POINT_X": -72.383317006799999, "POINT_Y": -37.2165825059 }, "geometry": { "type": "Point", "coordinates": [ -72.383317006774291, -37.216582505877795, 0.0 ] } }
+]
+}

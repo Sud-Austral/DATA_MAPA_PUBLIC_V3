@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "arclim_id": "12", "NOM_CENTRO_ESQUI": "CENTROS DE ESQUÍ VALLE NEVADO, PARVA, FARELLONES, Y EL COLORADO", "amen_TUR_02_PRESENTE": 184.1908, "amen_TUR2_FUTURO": 86.5161, "COMUNA": "13115", "delta_cambio_riesgo_TUR_02": 0.4178, "expo_TUR_02_FUTURO": 1.0, "expo_TUR_02_PRESENTE": 0.9123, "expo_TUR2_FUTURO": 1.0, "id": "12", "ind_opt01_TUR_02": 0.9123, "ind_opt02_TUR_02": 1.0, "ind_opt03_TUR_02": 0.9104, "ind_opt04_TUR_02": 0.7833, "ind_opt05_TUR_02": 0.7662, "LATITUD_CENTRO_ESQUI": -33.3574, "LONGITUD_CENTRO_ESQUI": -70.2487, "riesgo_TUR_02_FUTURO": 0.8383, "riesgo_TUR_02_PRESENTE": 0.7726, "sensi_TUR_02_FUTURO": 0.8383, "sensi_TUR_02_PRESENTE": 0.8469, "$CLIMA$snow_sum$annual$delta": -54.3284, "$CLIMA$snow_sum$annual$present": 167.9048, "$CLIMA$snow_sum$annual$future": 76.6847 }, "geometry": { "type": "Point", "coordinates": [ -70.249, -33.357 ] } }
+]
+}

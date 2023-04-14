@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4979" } },
+"features": [
+{ "type": "Feature", "properties": { "CODATRAC": "R140042", "JERARQUIA": "REGIONAL", "CATEGORIA": "ACONTECIMIENTOS PROGRAMADOS", "TIPO": "EVENTOS MISCELÁNEOS", "SUBTIPO": "EVENTO GASTRONÓMICO", "NOMBRE": "FERIA GASTRONÓMICA ARTESANAL Y ACTIVIDADES DE VERANO", "REGION": "REGIÓN DE LOS RÍOS", "PROVINCIA": "VALDIVIA", "COMUNA": "MÁFIL", "LOCALIDAD": "MÁFIL", "DIRECCION": "", "TELEFONO": "", "PROPIEDAD": "PRIVADA", "ADMINISTRA": "PRIVADA", "DISTCR": "0", "CR": "VALDIVIA", "DISTCC": "0", "CC": "MÁFIL", "LOC_URBANA": "MÁFIL", "ESTACIONAL": "ENERO", "USO_TUR": "ACTUAL", "DEMANDA": "LOCAL, REGIONAL", "SERVICIOS": "", "COD_REG": 14, "COD_PROV": 141, "COD_COM": 14105, "DESCRIPCIO": "Feria y actividades de verano.", "ESTADO_1": "BUENA", "POINT_X": -72.952076276300005, "POINT_Y": -39.665162601 }, "geometry": { "type": "Point", "coordinates": [ -72.952076276298953, -39.665162600973076, 0.0 ] } }
+]
+}

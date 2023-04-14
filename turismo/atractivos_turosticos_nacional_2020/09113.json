@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4979" } },
+"features": [
+{ "type": "Feature", "properties": { "CODATRAC": "R090100", "JERARQUIA": "REGIONAL", "CATEGORIA": "ACONTECIMIENTOS PROGRAMADOS", "TIPO": "EVENTOS MISCELÁNEOS", "SUBTIPO": "FIESTA RELIGIOSA", "NOMBRE": "FIESTA DE SAN SEBASTIÁN EN PERQUENCO", "REGION": "REGIÓN DE LA ARAUCANÍA", "PROVINCIA": "CAUTÍN", "COMUNA": "PERQUENCO", "LOCALIDAD": "PERQUENCO", "DIRECCION": "", "TELEFONO": "", "PROPIEDAD": "", "ADMINISTRA": "", "DISTCR": "0", "CR": "", "DISTCC": "0", "CC": "", "LOC_URBANA": "", "ESTACIONAL": "20 DE ENERO", "USO_TUR": "", "DEMANDA": "", "SERVICIOS": "", "COD_REG": 9, "COD_PROV": 91, "COD_COM": 9113, "DESCRIPCIO": "Cada 20 de enero, las calles de Perquenco se colma de fieles, quienes llegan a la comuna a visitar el Santuario de San Sebastián de Perquenco, el más importante de La Araucanía. Cerca de 30 mil peregrinos llegan de todos los puntos de la región.", "ESTADO_1": "", "POINT_X": -72.377762707000002, "POINT_Y": -38.421158621899998 }, "geometry": { "type": "Point", "coordinates": [ -72.377762706999988, -38.421158621918785, 0.0 ] } }
+]
+}

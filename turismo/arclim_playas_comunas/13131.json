@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "arclim_id": "13131", "NOM_COMUNA": "SAN RAMÓN", "NOM_PROVIN": "SANTIAGO", "NOM_REGION": "REGIÓN METROPOLITANA DE SANTIAGO" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -70.63667, -33.51883 ], [ -70.63124, -33.55796 ], [ -70.65492, -33.55492 ], [ -70.65389, -33.55102 ], [ -70.65389, -33.55102 ], [ -70.65337, -33.54869 ], [ -70.64472, -33.51755 ], [ -70.63667, -33.51883 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4979" } },
+"features": [
+{ "type": "Feature", "properties": { "CODATRAC": "R080057", "JERARQUIA": "LOCAL", "CATEGORIA": "MUSEOS MANIFESTACIONES CULTURALES Y LUGARES DE INTERÉS HISTÓRICO O CULTURAL", "TIPO": "LUGAR O SITIO HISTÓRICO", "SUBTIPO": "LUGAR O SITIO HISTÓRICO", "NOMBRE": "FUERTE DE NACIMIENTO (MH)", "REGION": "REGIÓN DEL BIOBÍO", "PROVINCIA": "BIOBÍO", "COMUNA": "NACIMIENTO", "LOCALIDAD": "NACIMIENTO", "DIRECCION": "OHIGGINS, SAN MARTÍN Y FREIRE, NACIMIENTO", "TELEFONO": "(43) 401312", "PROPIEDAD": "PÚBLICA", "ADMINISTRA": "PÚBLICA", "DISTCR": "104", "CR": "CONCEPCIÓN", "DISTCC": "0", "CC": "NACIMIENTO", "LOC_URBANA": "NACIMIENTO", "ESTACIONAL": "TODO EL AÑO", "USO_TUR": "ACTUAL", "DEMANDA": "LOCAL", "SERVICIOS": "SIN SERVICIOS", "COD_REG": 8, "COD_PROV": 83, "COD_COM": 8306, "DESCRIPCIO": "Declarado Monumento Histórico D.S. 1312 del 25/03/1954. Fue fundado el 24/12/1603 por el Gobernador Alonso de Rivera, desde entonces ha sido varias veces reconstruido y actualmente este lugar es el centro de las actividades cívicas del pueblo.", "ESTADO_1": "BUENA", "POINT_X": -72.667139504800005, "POINT_Y": -37.502087313499999 }, "geometry": { "type": "Point", "coordinates": [ -72.667139504784188, -37.502087313478569, 0.0 ] } }
+]
+}

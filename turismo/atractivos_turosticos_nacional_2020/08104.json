@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4979" } },
+"features": [
+{ "type": "Feature", "properties": { "CODATRAC": "R080007", "JERARQUIA": "LOCAL", "CATEGORIA": "FOLKLORE", "TIPO": "ARTESANÍA TRADICIONAL", "SUBTIPO": "TEXTILERÍA", "NOMBRE": "BORDADOS DE COPIULEMU", "REGION": "REGIÓN DEL BIOBÍO", "PROVINCIA": "CONCEPCIÓN", "COMUNA": "FLORIDA", "LOCALIDAD": "COPIULEMU", "DIRECCION": "", "TELEFONO": "(41) 2645575", "PROPIEDAD": "PRIVADA", "ADMINISTRA": "PRIVADA", "DISTCR": "33", "CR": "CONCEPCIÓN", "DISTCC": "12", "CC": "FLORIDA", "LOC_URBANA": "COPIULEMU", "ESTACIONAL": "TODO EL AÑO", "USO_TUR": "ACTUAL", "DEMANDA": "LOCAL", "SERVICIOS": "SIN SERVICIOS", "COD_REG": 8, "COD_PROV": 81, "COD_COM": 8104, "DESCRIPCIO": "Bordados en lana sobre arpillera de distintos tamaños y que pueden ser adquiridos Copiulemu donde un grupo de bordadoras los confecciona. Algunos de ellos se utilizaron para el mural de respaldo al altar preparado para la celebración de la Santa Misa.", "ESTADO_1": "BUENA", "POINT_X": -72.806570297700006, "POINT_Y": -36.893879436200002 }, "geometry": { "type": "Point", "coordinates": [ -72.806570297680935, -36.893879436186864, 0.0 ] } }
+]
+}

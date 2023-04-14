@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "arclim_id": "1", "NOM_CENTRO_ESQUI": "COMPLEJO INVERNAL PORTILLO", "amen_TUR_02_PRESENTE": 265.2117, "amen_TUR2_FUTURO": 149.8305, "COMUNA": "5301", "delta_cambio_riesgo_TUR_02": 0.1655, "expo_TUR_02_FUTURO": 0.5789, "expo_TUR_02_PRESENTE": 0.5281, "expo_TUR2_FUTURO": 1.0, "id": "1", "ind_opt01_TUR_02": 0.5281, "ind_opt02_TUR_02": 0.5789, "ind_opt03_TUR_02": 0.6866, "ind_opt04_TUR_02": 0.764, "ind_opt05_TUR_02": 0.7453, "LATITUD_CENTRO_ESQUI": -32.8357, "LONGITUD_CENTRO_ESQUI": -70.1289, "riesgo_TUR_02_FUTURO": 0.4145, "riesgo_TUR_02_PRESENTE": 0.383, "sensi_TUR_02_FUTURO": 0.716, "sensi_TUR_02_PRESENTE": 0.7253, "$CLIMA$snow_sum$annual$delta": -45.7352, "$CLIMA$snow_sum$annual$present": 240.3099, "$CLIMA$snow_sum$annual$future": 130.4036 }, "geometry": { "type": "Point", "coordinates": [ -70.129, -32.836 ] } }
+]
+}

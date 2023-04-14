@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4979" } },
+"features": [
+{ "type": "Feature", "properties": { "CODATRAC": "R100095", "JERARQUIA": "LOCAL", "CATEGORIA": "ACONTECIMIENTOS PROGRAMADOS", "TIPO": "ARTÍSTICOS", "SUBTIPO": "MÚSICA O CANTO", "NOMBRE": "FESTIVAL DE LA CEREZA DE SAN PABLO", "REGION": "REGIÓN DE LOS LAGOS", "PROVINCIA": "OSORNO", "COMUNA": "SAN PABLO", "LOCALIDAD": "SAN PABLO", "DIRECCION": "", "TELEFONO": "", "PROPIEDAD": "PRIVADA", "ADMINISTRA": "PRIVADA", "DISTCR": "0", "CR": "PUERTO MONTT", "DISTCC": "0", "CC": "SAN PABLO", "LOC_URBANA": "SAN PABLO", "ESTACIONAL": "FEBRERO", "USO_TUR": "ACTUAL", "DEMANDA": "LOCAL", "SERVICIOS": "", "COD_REG": 10, "COD_PROV": 103, "COD_COM": 10307, "DESCRIPCIO": "Fiesta local de una bebida tradicional y de gusto popular.", "ESTADO_1": "BUENA", "POINT_X": -73.011651486000005, "POINT_Y": -40.413144452899999 }, "geometry": { "type": "Point", "coordinates": [ -73.011651485999948, -40.413144452931405, 0.0 ] } }
+]
+}
